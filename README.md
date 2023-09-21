@@ -21,3 +21,7 @@ Similar functionality has http://ip-api.com/json but unavailable in WebGL build 
 ### Installation
 
 Install via **Package Manager** from git URL.
+
+### License
+
+This package is licensed under the MIT License, see [LICENSE](./LICENSE) for more information.
