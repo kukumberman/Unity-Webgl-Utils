@@ -1,6 +1,6 @@
 # Unity-Webgl-Utils
 
-### Description
+## Description
 
 Few utilities which I usually use when exporting to **WebGL**
 
@@ -18,10 +18,10 @@ Relies on external website by checking IP address https://api.country.is/
 
 Similar functionality has http://ip-api.com/json but unavailable in WebGL build due to browser restrictions.
 
-### Installation
+## Installation
 
 Install via **Package Manager** from git URL.
 
-### License
+## License
 
 This package is licensed under the MIT License, see [LICENSE](./LICENSE) for more information.
