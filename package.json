@@ -1,10 +1,17 @@
 {
   "name": "com.kukumberman.unity-webgl-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Unity WebGL Utils",
   "description": "todo",
   "unity": "2021.3",
   "dependencies": {
-  	"com.unity.nuget.newtonsoft-json": "3.1.0"
-  }
+    "com.unity.nuget.newtonsoft-json": "3.1.0"
+  },
+  "samples": [
+    {
+      "displayName": "Scene setup",
+      "description": "Contains sample scenes with basic setup",
+      "path": "Samples~/Scenes"
+    }
+  ]
 }
